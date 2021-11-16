@@ -1,0 +1,33 @@
+.cart-box-main{
+    padding: 70px 0px;
+}
+.table-main table thead{
+    background: #d33b33;
+    color: #ffffff;
+}
+.table-main .table thead th{
+    font-size: 18px;
+}
+.table-main table td.thumbnail-img{
+    width: 120px;
+}
+.table-main table td{
+    vertical-align: middle;
+    font-size: 16px;
+}
+.quantity-box input{
+    width: 60px;
+    border: 2px solid #010101;
+    text-align: center;
+}
+.quantity-box input:focus{
+    border-color: #d33b33;
+}
+.name-pr a{
+    font-weight: 700;
+    font-size: 18px;
+    color: #010101;
+}
+.remove-pr{
+    text-align: center;
+}
